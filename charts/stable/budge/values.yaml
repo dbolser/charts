@@ -1,6 +1,6 @@
 image:
   repository: tccr.io/truecharts/budge
-  tag: v0.0.9@sha256:c578ee916037f5ac216dbc2c2194ef7741e86b992053e3e56e868f8b31ea7f3a
+  tag: v0.0.9@sha256:fea3723b57c5657a9a788a611e355319891f51a7eaa8d17a2147240225eb5ac0
   pullPolicy: IfNotPresent
 
 securityContext:

@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: tccr.io/truecharts/searxng
-  tag: latest@sha256:921d014902a0135482993e573c611e9d31b4cb4fdf415f30f487ab654923c1e8
+  tag: latest@sha256:fdedc9f0121bb934c69fa1879a5c128c91564f95dada1959d92ba28d57ae7882
 
 workload:
   main:

@@ -1,7 +1,7 @@
 image:
   repository: tccr.io/truecharts/ghostfolio
   pullPolicy: IfNotPresent
-  tag: v2.10.0@sha256:10126f96d89c6193303f687c69d5e22c5ba3adf51a9a2e89fd1bdd078002d086
+  tag: v2.14.0@sha256:988f04e41825728b9002707446dc7ed6e4619faf832fda4f90056d43cd1b9525
 
 securityContext:
   container:
